@@ -1,4 +1,4 @@
-# Ejercicio_Desarrollo_Web
+# Ejercicio 1 Desarrollo Web
 Sitio web sencillo en HTML dedicado a la serie The Good Place para la materia Diseño y Desarrollo Web.
 Incluye tres páginas principales:
   - Inicio: con imagen personal generada con IA al estilo de la serie y comentario sobre por qué fue elegida.
